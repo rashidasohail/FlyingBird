@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flying Bird</string>
+    <string name="tap_to_start">Tap to Start</string>
+    <string name="score_300">Score : 300</string>
+    <string name="start">START</string>
+</resources>
